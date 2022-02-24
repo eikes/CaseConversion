@@ -12,7 +12,7 @@ camel, snake, screaming snake, dot, dash (hyphen), forward slash `/`, backslash 
 - To separate words: "ctrl+alt+c", "ctrl+alt+w"
 - To separate with forward slashes: "ctrl+alt+c", "ctrl+alt+/"
 - To separate with backslashes: "ctrl+alt+c", "ctrl+alt+b"
-- To toggle between snake_case, camelCase and PascalCase: "ctrl+shift+-"
+- To toggle between snake_case and PascalCase: "ctrl+shift+-"
 
 ## Install
 #### Package Control
